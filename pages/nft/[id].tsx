@@ -40,7 +40,8 @@ export default function NFTDropPage() {
 						The{' '}
 						<span className='font-extrabold underline decoration-pink-600/50'>
 							PAPAFAM
-						</span>{' '}
+						</span>
+						{'  '}
 						NFT Market Place
 					</h1>
 					<button
